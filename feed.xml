@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://nagahara-lab.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://nagahara-lab.github.io/" rel="alternate" type="text/html" /><updated>2020-03-13T16:07:35+00:00</updated><id>https://nagahara-lab.github.io/feed.xml</id><title type="html">Nagahara Lab.</title><subtitle>We focus on Computational Photography and Computer Vision.</subtitle><author><name>Nagahara Lab.</name></author><entry><title type="html">情報処理学会コンピュータビジョンとイメージメディア (CVIM) 研究会 (第220回)</title><link href="https://nagahara-lab.github.io/2020/01/23/cvim220.html" rel="alternate" type="text/html" title="情報処理学会コンピュータビジョンとイメージメディア (CVIM) 研究会 (第220回)" /><published>2020-01-23T15:00:00+00:00</published><updated>2020-01-23T15:00:00+00:00</updated><id>https://nagahara-lab.github.io/2020/01/23/cvim220</id><content type="html" xml:base="https://nagahara-lab.github.io/2020/01/23/cvim220.html">&lt;h1 id=&quot;情報処理学会コンピュータビジョンとイメージメディア-cvim-研究会-第220回&quot;&gt;情報処理学会コンピュータビジョンとイメージメディア (CVIM) 研究会 (第220回)&lt;/h1&gt;
+
+&lt;p&gt;2020年1月23日-24日に奈良で開催された情報処理学会コンピュータビジョンとイメージメディア (CVIM) 研究会 (第220回) で，M2の大河原君が口頭発表とポスター発表を行いました．&lt;/p&gt;
+
+&lt;h3 id=&quot;bibtex&quot;&gt;BibTeX&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;pre&gt;&lt;code class=&quot;language-bibtex&quot;&gt;@conference{cvim220_okawara,
+  title = {符号化露光画像を用いた人物の行動認識},
+  author = {大河原 忠 and 吉田 道隆 and 長原 一 and 八木 康史},
+  year = {2020},
+  date = {2020-01-23},
+  booktitle = {情報処理学会研究報告(コンピュータビジョンとイメージメディア研究会)},
+  journal = {情報処理学会研究報告(コンピュータビジョンとイメージメディア研究会)},
+  keywords = {},
+  pubstate = {published},
+  tppubtype = {conference}
+}
+&lt;/code&gt;&lt;/pre&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ipsj.or.jp/kenkyukai/event/cvim220.html&quot;&gt;第220回CVIM研究発表会-情報処理学会&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://cvim.ipsj.or.jp/index.php?id=cvim220p&quot;&gt;CVIM2020年1月研究会プログラム（第220回）&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Nagahara Lab.</name></author><summary type="html">情報処理学会コンピュータビジョンとイメージメディア (CVIM) 研究会 (第220回)</summary></entry><entry><title type="html">IEEE Transactions on Computational Imaging (Volume: 6)</title><link href="https://nagahara-lab.github.io/2019/11/28/tci2019.html" rel="alternate" type="text/html" title="IEEE Transactions on Computational Imaging (Volume: 6)" /><published>2019-11-28T15:00:00+00:00</published><updated>2019-11-28T15:00:00+00:00</updated><id>https://nagahara-lab.github.io/2019/11/28/tci2019</id><content type="html" xml:base="https://nagahara-lab.github.io/2019/11/28/tci2019.html">&lt;h1 id=&quot;ieee-transactions-on-computational-imaging-volume-6&quot;&gt;IEEE Transactions on Computational Imaging (Volume: 6)&lt;/h1&gt;
+&lt;p&gt;IEEE Transactions on Computational Imaging (Volume: 6) にM2の吉田君の論文 &lt;strong&gt;High-Speed Imaging Using CMOS Image Sensor With Quasi Pixel-Wise Exposure&lt;/strong&gt; が採択されました．&lt;/p&gt;
+
+&lt;h3 id=&quot;bibtex&quot;&gt;BibTeX&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;pre&gt;&lt;code class=&quot;language-bibtex&quot;&gt;@ARTICLE{8918110,
+  author={M. {Yoshida} and T. {Sonoda} and H. {Nagahara} and K. {Endo} and Y. {Sugiyama} and R. {Taniguchi}},
+  journal={IEEE Transactions on Computational Imaging},
+  title={High-Speed Imaging Using CMOS Image Sensor With Quasi Pixel-Wise Exposure},
+  year={2020},
+  volume={6},
+  number={},
+  pages={463-476},
+  keywords={Image reconstruction;CMOS image sensors;Spatial resolution;Compressed sensing;Prototypes;Compressive sensing;video reconstruction},
+  doi={10.1109/TCI.2019.2956885},
+  ISSN={2573-0436},
+  month={},
+}
+&lt;/code&gt;&lt;/pre&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ieeexplore.ieee.org/abstract/document/8918110&quot;&gt;IEEE Xplore&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Nagahara Lab.</name></author><summary type="html">IEEE Transactions on Computational Imaging (Volume: 6) IEEE Transactions on Computational Imaging (Volume: 6) にM2の吉田君の論文 High-Speed Imaging Using CMOS Image Sensor With Quasi Pixel-Wise Exposure が採択されました．</summary></entry><entry><title type="html">第18回情報科学技術フォーラム (FIT 2019)</title><link href="https://nagahara-lab.github.io/2019/09/02/fit2019.html" rel="alternate" type="text/html" title="第18回情報科学技術フォーラム (FIT 2019)" /><published>2019-09-02T15:00:00+00:00</published><updated>2019-09-02T15:00:00+00:00</updated><id>https://nagahara-lab.github.io/2019/09/02/fit2019</id><content type="html" xml:base="https://nagahara-lab.github.io/2019/09/02/fit2019.html">&lt;h1 id=&quot;fit-2019&quot;&gt;FIT 2019&lt;/h1&gt;
+&lt;p&gt;2019年9月3日-5日に岡山大学津島キャンパスで開催された第18回情報科学技術フォーラムのトップコンファレンスセッションで，D1の吉田君が招待講演を行いました．&lt;/p&gt;
+
+&lt;h3 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ipsj.or.jp/event/fit/fit2019/FIT2019program_web/data/html/event/eventTCS3.html&quot;&gt;FIT 2019&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Nagahara Lab.</name></author><summary type="html">FIT 2019 2019年9月3日-5日に岡山大学津島キャンパスで開催された第18回情報科学技術フォーラムのトップコンファレンスセッションで，D1の吉田君が招待講演を行いました．</summary></entry><entry><title type="html">第22回 画像の認識・理解シンポジウム (MIRU 2019)</title><link href="https://nagahara-lab.github.io/2019/07/31/miru2019.html" rel="alternate" type="text/html" title="第22回 画像の認識・理解シンポジウム (MIRU 2019)" /><published>2019-07-31T15:00:00+00:00</published><updated>2019-07-31T15:00:00+00:00</updated><id>https://nagahara-lab.github.io/2019/07/31/miru2019</id><content type="html" xml:base="https://nagahara-lab.github.io/2019/07/31/miru2019.html">&lt;h1 id=&quot;第22回-画像の認識理解シンポジウム-miru-2019&quot;&gt;第22回 画像の認識・理解シンポジウム (MIRU 2019)&lt;/h1&gt;
+
+&lt;p&gt;2019年7月29日-8月1日にグランキューブ大阪（大阪府立国際会議場）で開催された第22回 画像の認識・理解シンポジウム (MIRU 2019) で，D1の吉田君がデモンストレーション，M2の大河原君がポスター発表を行いました．&lt;/p&gt;
+
+&lt;h3 id=&quot;bibtex&quot;&gt;BibTeX&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;pre&gt;&lt;code class=&quot;language-bibtex&quot;&gt;@conference{miru2019_okawara,
+  title = {符号化露光画像を用いた人物の行動認識},
+  author = {大河原 忠 and 吉田 道隆 and 長原 一 and 八木 康史},
+  year = {2019},
+  date = {2019-07-30},
+  booktitle = {画像の認識・理解シンポジウム},
+  keywords = {},
+  pubstate = {published},
+  tppubtype = {conference}
+}
+&lt;/code&gt;&lt;/pre&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://cvim.ipsj.or.jp/MIRU2019/&quot;&gt;第22回 画像の認識・理解シンポジウム (MIRU 2019)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Nagahara Lab.</name></author><summary type="html">第22回 画像の認識・理解シンポジウム (MIRU 2019)</summary></entry><entry><title type="html">International Conference on Computational Photography (ICCP2019)</title><link href="https://nagahara-lab.github.io/2019/05/16/iccp2019.html" rel="alternate" type="text/html" title="International Conference on Computational Photography (ICCP2019)" /><published>2019-05-16T15:00:00+00:00</published><updated>2019-05-16T15:00:00+00:00</updated><id>https://nagahara-lab.github.io/2019/05/16/iccp2019</id><content type="html" xml:base="https://nagahara-lab.github.io/2019/05/16/iccp2019.html">&lt;h1 id=&quot;eccv-2018&quot;&gt;ECCV 2018&lt;/h1&gt;
+&lt;p&gt;2019年5月15日-17日に東京大学駒場キャンパスで開催されたInternational Conference on Computational Photography (ICCP2019)で，D1の吉田君がデモンストレーション発表を行いました．&lt;/p&gt;
+
+&lt;p&gt;```&lt;/p&gt;
+
+&lt;h3 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://iccp2019.naist.jp/&quot;&gt;ICCP2019&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Nagahara Lab.</name></author><summary type="html">ECCV 2018 2019年5月15日-17日に東京大学駒場キャンパスで開催されたInternational Conference on Computational Photography (ICCP2019)で，D1の吉田君がデモンストレーション発表を行いました．</summary></entry><entry><title type="html">情報処理学会コンピュータビジョンとイメージメディア (CVIM) 研究会 (第215回)</title><link href="https://nagahara-lab.github.io/2019/01/17/cvim215.html" rel="alternate" type="text/html" title="情報処理学会コンピュータビジョンとイメージメディア (CVIM) 研究会 (第215回)" /><published>2019-01-17T15:00:00+00:00</published><updated>2019-01-17T15:00:00+00:00</updated><id>https://nagahara-lab.github.io/2019/01/17/cvim215</id><content type="html" xml:base="https://nagahara-lab.github.io/2019/01/17/cvim215.html">&lt;h1 id=&quot;情報処理学会コンピュータビジョンとイメージメディア-cvim-研究会-第215回&quot;&gt;情報処理学会コンピュータビジョンとイメージメディア (CVIM) 研究会 (第215回)&lt;/h1&gt;
+
+&lt;p&gt;2019年1月17日-18日に京都で開催された情報処理学会コンピュータビジョンとイメージメディア (CVIM) 研究会 (第215回) で，M2の志礼田君とM1の大河原君が口頭発表とポスター発表を行いました．&lt;/p&gt;
+
+&lt;h3 id=&quot;bibtex&quot;&gt;BibTeX&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;pre&gt;&lt;code class=&quot;language-bibtex&quot;&gt;@conference{cvim215_shireida,
+  title = {ライトフィールドレンダリングを用いた距離変化にロバストなLFD特徴量},
+  author = {志礼田 賢人 and 徐 軼超 and 長原 一 and 谷口 倫一郎},
+  year = {2019},
+  date = {2019-01-18},
+  booktitle = {情報処理学会研究報告(コンピュータビジョンとイメージメディア研究会)},
+  journal = {情報処理学会研究報告(コンピュータビジョンとイメージメディア研究会)},
+  keywords = {},
+  pubstate = {published},
+  tppubtype = {conference}
+}
+&lt;/code&gt;&lt;/pre&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;pre&gt;&lt;code class=&quot;language-bibtex&quot;&gt;@conference{cvim215_okawara,
+  title = {符号化露光画像を用いた人物の行動認識},
+  author = {大河原 忠 and 吉田 道隆 and 長原 一 and 八木 康史},
+  year = {2019},
+  date = {2019-01-17},
+  booktitle = {情報処理学会研究報告(コンピュータビジョンとイメージメディア研究会)},
+  journal = {情報処理学会研究報告(コンピュータビジョンとイメージメディア研究会)},
+  keywords = {},
+  pubstate = {published},
+  tppubtype = {conference}
+}
+&lt;/code&gt;&lt;/pre&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ipsj.or.jp/kenkyukai/event/cvim215.html&quot;&gt;第215回CVIM研究発表会-情報処理学会&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://cvim.ipsj.or.jp/index.php?id=cvim215p&quot;&gt;CVIM2019年1月研究会プログラム（第215回）&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Nagahara Lab.</name></author><summary type="html">情報処理学会コンピュータビジョンとイメージメディア (CVIM) 研究会 (第215回)</summary></entry><entry><title type="html">4th International Workshop on Image Sensors and Imaging Systems (IWISS2018)</title><link href="https://nagahara-lab.github.io/2018/11/28/IWISS2018.html" rel="alternate" type="text/html" title="4th International Workshop on Image Sensors and Imaging Systems (IWISS2018)" /><published>2018-11-28T15:00:00+00:00</published><updated>2018-11-28T15:00:00+00:00</updated><id>https://nagahara-lab.github.io/2018/11/28/IWISS2018</id><content type="html" xml:base="https://nagahara-lab.github.io/2018/11/28/IWISS2018.html">&lt;h1 id=&quot;eccv-2018&quot;&gt;ECCV 2018&lt;/h1&gt;
+&lt;p&gt;2018年11月28日-29日に東京工業大学田町キャンパスで開催された4th International Workshop on Image Sensors and Imaging Systems (IWISS2018)で，M2の吉田君がポスター発表を行いました．&lt;/p&gt;
+
+&lt;p&gt;```&lt;/p&gt;
+
+&lt;h3 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.i-photonics.jp/meetings/meetings2018.html#20181128IWISS&quot;&gt;IWISS2018&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Nagahara Lab.</name></author><summary type="html">ECCV 2018 2018年11月28日-29日に東京工業大学田町キャンパスで開催された4th International Workshop on Image Sensors and Imaging Systems (IWISS2018)で，M2の吉田君がポスター発表を行いました．</summary></entry><entry><title type="html">European Conference on Computer Vision (ECCV) 2018</title><link href="https://nagahara-lab.github.io/2018/09/13/eccv2018.html" rel="alternate" type="text/html" title="European Conference on Computer Vision (ECCV) 2018" /><published>2018-09-13T15:00:00+00:00</published><updated>2018-09-13T15:00:00+00:00</updated><id>https://nagahara-lab.github.io/2018/09/13/eccv2018</id><content type="html" xml:base="https://nagahara-lab.github.io/2018/09/13/eccv2018.html">&lt;h1 id=&quot;eccv-2018&quot;&gt;ECCV 2018&lt;/h1&gt;
+&lt;p&gt;2018年9月8日-14日にドイツのミュンヘンで開催されたEuropean Conference on Computer Vision (ECCV) 2018 で，M2の吉田君がポスター発表を行いました．&lt;/p&gt;
+
+&lt;p&gt;[P-3A-30] Joint optimization for compressive video sensing and reconstruction under hardware constraints&lt;/p&gt;
+
+&lt;h3 id=&quot;bibtex&quot;&gt;BibTeX&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;pre&gt;&lt;code class=&quot;language-bibtex&quot;&gt;@InProceedings{Yoshida_2018_ECCV,
+  author = {Yoshida, Michitaka and Torii, Akihiko and Okutomi, Masatoshi and Endo, Kenta and Sugiyama, Yukinobu and Taniguchi, Rin-ichiro and Nagahara, Hajime},
+  title = {Joint optimization for compressive video sensing and reconstruction under hardware constraints},
+  booktitle = {The European Conference on Computer Vision (ECCV)},
+  month = {September},
+  year = {2018}
+}
+&lt;/code&gt;&lt;/pre&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eccv2018.org/openaccess/content_ECCV_2018/html/Michitaka_Yoshida_Joint_optimization_for_ECCV_2018_paper.html&quot;&gt;ECCV 2018 Open Access Repository - Joint optimization for compressive video sensing and reconstruction under hardware constraints&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eccv2018.org/program/sessions/#poster_3A&quot;&gt;Sessions - Poster session 3A&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Nagahara Lab.</name></author><summary type="html">ECCV 2018 2018年9月8日-14日にドイツのミュンヘンで開催されたEuropean Conference on Computer Vision (ECCV) 2018 で，M2の吉田君がポスター発表を行いました．</summary></entry><entry><title type="html">第21回 画像の認識・理解シンポジウム (MIRU 2018)</title><link href="https://nagahara-lab.github.io/2018/08/07/miru2018.html" rel="alternate" type="text/html" title="第21回 画像の認識・理解シンポジウム (MIRU 2018)" /><published>2018-08-07T15:00:00+00:00</published><updated>2018-08-07T15:00:00+00:00</updated><id>https://nagahara-lab.github.io/2018/08/07/miru2018</id><content type="html" xml:base="https://nagahara-lab.github.io/2018/08/07/miru2018.html">&lt;h1 id=&quot;第21回-画像の認識理解シンポジウム-miru-2018&quot;&gt;第21回 画像の認識・理解シンポジウム (MIRU 2018)&lt;/h1&gt;
+
+&lt;p&gt;2018年8月5日-8月8日に札幌コンベンションセンターで開催された第21回 画像の認識・理解シンポジウム (MIRU 2018) で，M2の吉田君がポスター発表を行いました．&lt;/p&gt;
+
+&lt;h3 id=&quot;bibtex&quot;&gt;BibTeX&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;pre&gt;&lt;code class=&quot;language-bibtex&quot;&gt;@conference{miru2018_yoshida,
+  title = {ハードウェアの制約を考慮した圧縮ビデオセンシングにおける圧縮と再構成の同時最適化},
+  author = {吉田 道隆 and 鳥居 秋彦 and 奥富 正敏 and 遠藤 健太 and 杉山 行信 and 谷口 倫一郎 and 長原 一},
+  year = {2018},
+  booktitle = {画像の認識・理解シンポジウム},
+  keywords = {},
+  pubstate = {published},
+  tppubtype = {conference}
+}
+&lt;/code&gt;&lt;/pre&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sites.google.com/view/miru2018sapporo/&quot;&gt;第21回 画像の認識・理解シンポジウム (MIRU 2018)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Nagahara Lab.</name></author><summary type="html">第21回 画像の認識・理解シンポジウム (MIRU 2018)</summary></entry><entry><title type="html">第24回画像センシングシンポジウム (SSII 2018)</title><link href="https://nagahara-lab.github.io/2018/06/14/ssii2018.html" rel="alternate" type="text/html" title="第24回画像センシングシンポジウム (SSII 2018)" /><published>2018-06-14T15:00:00+00:00</published><updated>2018-06-14T15:00:00+00:00</updated><id>https://nagahara-lab.github.io/2018/06/14/ssii2018</id><content type="html" xml:base="https://nagahara-lab.github.io/2018/06/14/ssii2018.html">&lt;h1 id=&quot;ssii-2018&quot;&gt;SSII 2018&lt;/h1&gt;
+&lt;p&gt;2018年6月13日-15日にパシフィコ横浜で開催された第24回画像センシングシンポジウムで，D1の依田君がデモンストレーションを行いました．&lt;/p&gt;
+
+&lt;h3 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://confit.atlas.jp/guide/event/ssii2018/top&quot;&gt;SSII 2018&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://confit.atlas.jp/guide/event/ssii2018/subject/DS1-01/detail?lang=ja&quot;&gt;[DS1-01] マルチタップCMOSイメージセンサを用いたダイナミック照度差ステレオ法&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Nagahara Lab.</name></author><summary type="html">SSII 2018 2018年6月13日-15日にパシフィコ横浜で開催された第24回画像センシングシンポジウムで，D1の依田君がデモンストレーションを行いました．</summary></entry></feed>
